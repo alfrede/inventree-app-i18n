@@ -70,11 +70,17 @@
   "barcodeScanGeneral":  "Scan an InvenTree barcode",
   "@barcodeScanGeneral": {},
 
+  "barcodeScanInItems": "Scan stock items into location",
+  "@barcodeScanInItems": {},
+
   "barcodeScanLocation": "Scan stock location",
   "@barcodeScanLocation": {},
 
   "barcodeScanIntoLocationSuccess": "Scanned into location",
   "@barcodeScanIntoLocationSuccess": {},
+
+  "barcodeScanIntoLocationFailure": "Item not scanned in",
+  "@barcodeScanIntoLocationFailure": {},
 
   "barcodeScanItem": "Scan stock item",
   "@barcodeScanItem": {},
@@ -181,6 +187,9 @@
 
   "invalidStockItem": "Invalid Stock Item",
   "@invalidStockItem": {},
+
+  "itemInLocation": "Item already in location",
+  "@itemInLocation": {},
 
   "keywords": "Keywords",
   "@keywords": {},
