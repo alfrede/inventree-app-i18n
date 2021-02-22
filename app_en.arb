@@ -215,6 +215,9 @@
   "noResponse": "No Response from Server",
   "@noResponse": {},
 
+  "noResults": "No Results",
+  "@noResults": {},
+
   "packageName": "Package Name",
   "@packageName": {},
 
@@ -303,6 +306,9 @@
   "@result": {
     "description": ""
   },
+
+  "results": "Results",
+  "@results": {},
 
   "request": "Request",
   "@request": {},
