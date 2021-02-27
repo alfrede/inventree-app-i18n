@@ -321,6 +321,24 @@
     "description": "This field is required"
   },
 
+  "response400": "Bad Request",
+  "@response400": {},
+
+  "response401": "Unauthorized",
+  "@response401": {},
+
+  "response403": "Permission Denied",
+  "@response403": {},
+
+  "response404": "Resource Not Found",
+  "@response404": {},
+
+  "response405": "Method Not Allowed",
+  "@response405": {},
+
+  "response429": "Too Many Requests",
+  "@response429": {},
+
   "responseInvalid": "Invalid Response Code",
   "@responseInvalid": {},
 
