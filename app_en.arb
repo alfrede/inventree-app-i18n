@@ -383,6 +383,12 @@
   "serverAddress": "Server Address",
   "@serverAddress": {},
 
+  "serverApiRequired": "Required API Version",
+  "@serverApiRequired": {},
+
+  "serverApiVersion": "Server API Version",
+  "@serverApiVersion": {},
+
   "serverConnected": "Connected to Server",
   "@serverConnected": {},
 
