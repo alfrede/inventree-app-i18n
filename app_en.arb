@@ -121,6 +121,9 @@
     "description": "Count Stock"
   },
 
+  "credits": "Credits",
+  "@credits": {},
+
   "damaged": "Damaged",
   "@damaged": {},
 
