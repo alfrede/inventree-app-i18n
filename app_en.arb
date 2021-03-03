@@ -35,11 +35,17 @@
   "address": "Address",
   "@address": {},
 
+  "appAbout": "About InvenTree",
+  "@appAbout": {},
+
   "appDetails": "App Details",
   "@appDetails": {},
 
-  "appAbout": "About InvenTree",
-  "@appAbout": {},
+  "appSettings": "App Settings",
+  "@appSettings": {},
+
+  "appSettingsDetails": "Configure InvenTree app settings",
+  "@appSettingsDetails": {},
 
   "attachImage": "Attach Image",
   "@attachImage": {
@@ -84,6 +90,9 @@
 
   "barcodeScanItem": "Scan stock item",
   "@barcodeScanItem": {},
+
+  "barcodeTones": "Barcode Tones",
+  "@barcodeTones": {},
 
   "barcodeUnassign": "Unassign Barcode",
   "@barcodeUnassign": {},
@@ -263,16 +272,19 @@
   "profile": "Profile",
   "@profile": {},
 
-  "profileAdd": "Add Profile",
+  "profileAdd": "Add Server Profile",
   "@profileAdd": {},
 
-  "profileEdit": "Edit Profile",
+  "profileConnect": "Connect to Server",
+  "@profileConnect": {},
+
+  "profileEdit": "Edit Server Profile",
   "@profileEdit": {},
 
-  "profileDelete": "Delete Profile",
+  "profileDelete": "Delete Server Profile",
   "@profileDelete": {},
 
-  "profileSelect": "Select Profile",
+  "profileSelect": "Select InvenTree Server",
   "@profileSelect": {},
 
   "quantity": "Quantity",
@@ -415,6 +427,9 @@
 
   "serverNotConnected": "Server not connected",
   "@serverNotConnected": {},
+
+  "sounds": "Sounds",
+  "@sounds": {},
 
   "status": "Status",
   "@status": {},
