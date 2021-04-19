@@ -317,11 +317,6 @@
   "reportBug": "Report Bug",
   "@reportBug": {},
 
-  "result": "Result",
-  "@result": {
-    "description": ""
-  },
-
   "results": "Results",
   "@results": {},
 
@@ -359,6 +354,14 @@
 
   "responseUnknown": "Unknown Response",
   "@responseUnknown": {},
+
+  "result": "Result",
+  "@result": {
+    "description": ""
+  },
+
+  "returned": "Returned",
+  "@returned": {},
 
   "save": "Save",
   "@save": {
@@ -403,6 +406,9 @@
 
   "serverApiVersion": "Server API Version",
   "@serverApiVersion": {},
+
+  "serverCertificateError": "Cerficate Error",
+  "@serverCertificateError": {},
 
   "serverConnected": "Connected to Server",
   "@serverConnected": {},
