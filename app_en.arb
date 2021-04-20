@@ -407,6 +407,9 @@
   "serverApiVersion": "Server API Version",
   "@serverApiVersion": {},
 
+  "serverAuthenticationError": "Authentication Error",
+  "@serverAuthenticationError": {},
+
   "serverCertificateError": "Cerficate Error",
   "@serverCertificateError": {},
 
