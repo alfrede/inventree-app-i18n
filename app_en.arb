@@ -700,6 +700,12 @@
     "description": "transfer stock"
   },
 
+  "translate": "Translate",
+  "@translate": {},
+
+  "translateHelp": "Help translate the InvenTree app",
+  "@translateHelp": {},
+
   "unknownResponse": "Unknown Response",
   "@unknownResponse": {},
 
