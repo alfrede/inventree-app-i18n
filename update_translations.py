@@ -34,7 +34,14 @@ def process_locale_file(filename):
         # but it does not preserve unicode data!
         for line in lines:
             if '@@locale' in line:
-                line = f'    "@@locale": "{locale}",\n'
+                new_line = f'    "@@locale": "{locale}"'
+
+                if ',' in line:
+                    new_line += ','
+                
+                new_line += '\n'
+
+                line = new_line
 
             output_file.write(line)
 
