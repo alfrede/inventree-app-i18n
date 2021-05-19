@@ -26,10 +26,10 @@
     },
     "address": "Adresse",
     "@address": {},
-    "appDetails": "App-Informationen",
-    "@appDetails": {},
     "appAbout": "Über InvenTree",
     "@appAbout": {},
+    "appDetails": "App-Informationen",
+    "@appDetails": {},
     "attachImage": "Bild hinzufügen",
     "@attachImage": {
         "description": "Attach an image"
@@ -158,14 +158,6 @@
     "@password": {},
     "profile": "Profil",
     "@profile": {},
-    "profileAdd": "Profil hinzufügen",
-    "@profileAdd": {},
-    "profileEdit": "Profil bearbeiten",
-    "@profileEdit": {},
-    "profileDelete": "Profil löschen",
-    "@profileDelete": {},
-    "profileSelect": "Profil auswählen",
-    "@profileSelect": {},
     "quantity": "Anzahl",
     "@quantity": {
         "description": "Quantity"
@@ -188,10 +180,6 @@
     },
     "reportBug": "Fehler melden",
     "@reportBug": {},
-    "result": "Ergebnis",
-    "@result": {
-        "description": ""
-    },
     "request": "Anfrage",
     "@request": {},
     "requestingData": "Daten werden angefordert",
@@ -204,6 +192,10 @@
     "@responseInvalid": {},
     "responseUnknown": "Unbekannte Antwort",
     "@responseUnknown": {},
+    "result": "Ergebnis",
+    "@result": {
+        "description": ""
+    },
     "save": "Speichern",
     "@save": {
         "description": "Save"
