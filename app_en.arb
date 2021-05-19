@@ -117,6 +117,9 @@
   "companies": "Companies",
   "@companies": {},
 
+  "configureServer": "Configured server settings",
+  "@configureServer": {},
+
   "connectionRefused": "Connection Refused",
   "@connectionRefused": {},
 
@@ -176,6 +179,15 @@
 
   "errorDetails": "Error Details",
   "@errorDetails": {},
+
+  "feedback": "Feedback",
+  "@feedback": {},
+
+  "feedbackError": "Error submitting feedback",
+  "@feedbackError": {},
+
+  "feedbackSuccess": "Feedback submitted",
+  "@feedbackSuccess": {},
 
   "history": "History",
   "@history": {
@@ -493,6 +505,9 @@
 
   "sublocations": "Sublocations",
   "@sublocations": {},
+
+  "submitFeedback": "Submit Feedback",
+  "@submitFeedback": {},
 
   "testResults": "Test Results",
   "@testResults": {
