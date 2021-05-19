@@ -25,6 +25,9 @@ def process_locale_file(filename):
     f = os.path.basename(filename)
     locale = re.search(r"^app\_(\w+)\.arb$", f).groups()[0]
 
+    # TODO: Use JSON processing instead of manual
+    # Need to work out unicode issues for this to work
+
     with open(filename, 'r') as input_file:
 
         lines = input_file.readlines()
