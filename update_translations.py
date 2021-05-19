@@ -11,6 +11,33 @@ So, simply copy them here!
 
 import os
 import shutil
+import re
+import json
+
+def process_locale_file(filename):
+    """
+    Process a locale file after copying
+
+    - Ensure the 'locale' matches
+    """
+
+    # Extract the locale name from the filename
+    f = os.path.basename(filename)
+    locale = re.search(r"^app\_(\w+)\.arb$", f).groups()[0]
+
+    with open(filename, 'r') as input_file:
+
+        lines = input_file.readlines()
+
+    with open(filename, 'w') as output_file:
+        # Using JSON processing would be simpler here,
+        # but it does not preserve unicode data!
+        for line in lines:
+            if '@@locale' in line:
+                line = f'    "@@locale": "{locale}",\n'
+
+            output_file.write(line)
+
 
 def copy_locale_file(path):
     """
@@ -28,6 +55,8 @@ def copy_locale_file(path):
 
             print(f"Copying file '{f}'")
             shutil.copy(src, dst)
+
+            process_locale_file(dst)
 
 
 if __name__ == '__main__':
