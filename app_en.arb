@@ -606,6 +606,9 @@
   "stockItemCreate": "Create Stock Item",
   "@stockItemCreate": {},
 
+  "stockItemHistory": "Stock History",
+  "@stockItemHistory",
+
   "stockItemNotes": "Stock Item Notes",
   "@stockItemNotes": {},
 
@@ -675,6 +678,12 @@
 
   "testResultNoneDetail": "No test results available",
   "@testResultNoneDetail": {},
+
+  "testResultUploadFail": "Error uploading test result",
+  "@testResultUploadFail": {},
+
+  "testResultUploadPass": "Test result uploaded",
+  "@testResultUploadPass": {},
 
   "timeout": "Timeout",
   "@timeout": {
