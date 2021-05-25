@@ -38,8 +38,14 @@
   "appAbout": "About InvenTree",
   "@appAbout": {},
 
+  "appCredits": "Additional app credits",
+  "@appCredits": {},
+
   "appDetails": "App Details",
   "@appDetails": {},
+
+  "appReleaseNotes": "Display app release notes",
+  "@appReleaseNotes": {},
 
   "appSettings": "App Settings",
   "@appSettings": {},
@@ -63,6 +69,9 @@
 
   "barcodeInUse": "Barcode already assigned",
   "@barcodeInUse": {},
+
+  "barcodeMissingHash": "Barcode hash data missing from response",
+  "@barcodeMissingHash": {},
 
   "barcodeNoMatch": "No match for barcode",
   "@barcodeNoMatch": {},
@@ -100,8 +109,17 @@
   "barcodeUnknown": "Barcode is not recognized",
   "@barcodeUnknown": {},
 
+  "billOfMaterials": "Bill of Materials",
+  "@billOfMaterials": {},
+
+  "bom": "BOM",
+  "@bom": {},
+
   "build": "Build",
   "@build": {},
+
+  "building": "Building",
+  "@building": {},
 
   "cancel": "Cancel",
   "@cancel": {
@@ -172,6 +190,12 @@
     "description": "edit part"
   },
 
+  "enterPassword": "Enter password",
+  "@enterPassword": {},
+
+  "enterUsername": "Enter username",
+  "@enterUsername": {},
+
   "error": "Error",
   "@error": {
     "description": "Error"
@@ -189,10 +213,28 @@
   "feedbackSuccess": "Feedback submitted",
   "@feedbackSuccess": {},
 
+  "formatException": "Format Exception",
+  "@formatException": {},
+
+  "formatExceptionJson": "JSON data format exception",
+  "@formatExceptionJson": {},
+
   "history": "History",
   "@history": {
     "description": "history"
   },
+
+  "includeSubcategories": "Include Subcategories",
+  "@includeSubcategories": {},
+
+  "includeSubcategoriesDetail": "Display subcategory parts in list view",
+  "@includeSubcategoriesDetail": {},
+
+  "includeSublocations": "Include Sublocations",
+  "@includeSublocations": {},
+
+  "includeSublocationsDetail": "Display sublocation items in list view",
+  "@includeSublocationsDetail": {},
 
   "internalPartNumber": "Internal Part Number",
   "@internalPartNumber": {},
@@ -212,17 +254,26 @@
   "invalidStockItem": "Invalid Stock Item",
   "@invalidStockItem": {},
 
+  "invalidUsernamePassword": "Invalid username / password combination",
+  "@invalidUsernamePassword": {},
+
   "itemInLocation": "Item already in location",
   "@itemInLocation": {},
 
   "keywords": "Keywords",
   "@keywords": {},
 
+  "locationNotSet": "No location specified",
+  "@locationNotSet": {},
+
   "link": "Link",
   "@link": {},
 
   "lost": "Lost",
   "@lost": {},
+
+  "missingData": "Missing Data",
+  "@missingData": {},
 
   "name": "Name",
   "@name": {
@@ -241,6 +292,12 @@
 
   "noResults": "No Results",
   "@noResults": {},
+
+  "noSubcategories": "No Subcategories",
+  "@noSubcategories": {},
+
+  "noSubcategoriesAvailable": "No subcategories available",
+  "@noSubcategoriesAvailable": {},
 
   "packageName": "Package Name",
   "@packageName": {},
@@ -261,8 +318,20 @@
     "description": "Part (multiple)"
   },
 
+  "partsNone": "No Parts",
+  "@partsNone": {},
+
+  "partsStarred": "Starred Parts",
+  "@partsStarred": {},
+
+  "partsStarredNone": "No starred parts available",
+  "@partsStarredNone": {},
+
   "partCategory": "Part Category",
   "@partCategory": {},
+
+  "partCategoryTopLevel": "Top level part category",
+  "@partCategoryTopLevel": {},
 
   "partCategories": "Part Categories",
   "@partCategories": {},
@@ -281,6 +350,12 @@
   "password": "Password",
   "@password": {},
 
+  "permissionAccountDenied": "Your account does not have the required permissions to perform this action",
+  "@permissionAccountDenied": {},
+
+  "permissionRequired": "Permission Required",
+  "@permissionRequired": {},
+
   "profile": "Profile",
   "@profile": {},
 
@@ -296,13 +371,43 @@
   "profileDelete": "Delete Server Profile",
   "@profileDelete": {},
 
+  "profileNone": "No profiles available",
+  "@profileNone": {},
+
+  "profileNotSelected": "No Profile Selected",
+  "@profileNotSelected": {},
+
   "profileSelect": "Select InvenTree Server",
   "@profileSelect": {},
+
+  "profileTapToCreate": "Tap to create or select a profile",
+  "@profileTapToCreate": {},
 
   "quantity": "Quantity",
   "@quantity": {
     "description": "Quantity"
   },
+
+  "quantityEmpty": "Quantity is empty",
+  "@quantityEmpty": {},
+
+  "quantityInvalid": "Quantity is invalid",
+  "@quantityInvalid": {},
+
+  "quantityPositive": "Quantity must be positive",
+  "@quantityPositive": {},
+
+  "queryEnter": "Enter search query",
+  "@queryEnter": {},
+
+  "queryNoResults": "No results for query",
+  "@queryNoResults": {},
+
+  "queryShort": "Query too short",
+  "@queryShort": {},
+
+  "queryShortDetail": "Enter a query of at least three characters",
+  "@queryShortDetail": {},
 
   "refresh": "Refresh",
   "@refresh": {},
@@ -361,6 +466,9 @@
   "response429": "Too Many Requests",
   "@response429": {},
 
+  "responseData": "Response data",
+  "@responseData": {},
+
   "responseInvalid": "Invalid Response Code",
   "@responseInvalid": {},
 
@@ -401,6 +509,12 @@
   "select": "Select",
   "@select": {},
 
+  "selectImage": "Select Image",
+  "@selectImage": {},
+
+  "selectLocation": "Select a location",
+  "@selectLocation": {},
+
   "send": "Send",
   "@send": {},
 
@@ -425,14 +539,26 @@
   "serverCertificateError": "Cerficate Error",
   "@serverCertificateError": {},
 
+  "serverCertificateInvalid": "Server HTTPS certificate is invalid",
+  "@serverCertificateInvalid": {},
+
   "serverConnected": "Connected to Server",
   "@serverConnected": {},
+
+  "serverConnecting": "Connecting to server",
+  "@serverConnecting": {},
+
+  "serverCouldNotConnect": "Could not connect to server",
+  "@serverCouldNotConnect": {},
 
   "serverError":  "Server Error",
   "@serverError": {},
 
   "serverDetails": "Server Details",
   "@serverDetails": {},
+
+  "serverMissingData": "Server response msising required fields",
+  "@serverMissingData": {},
 
   "serverOld": "Old Server Version",
   "@serverOld": {},
@@ -451,6 +577,12 @@
 
   "sounds": "Sounds",
   "@sounds": {},
+
+  "soundOnBarcodeAction": "Play audible tone on barcode action",
+  "@soundOnBarcodeAction": {},
+
+  "soundOnServerError": "Play audible tone on server error",
+  "@soundOnServerError": {},
 
   "status": "Status",
   "@status": {},
@@ -506,13 +638,43 @@
   "sublocations": "Sublocations",
   "@sublocations": {},
 
+  "sublocationNone": "No Sublocations",
+  "@sublocationNone": {},
+
+  "sublocationNoneDetail": "No sublocations available",
+  "@sublocationNoneDetail": {},
+
   "submitFeedback": "Submit Feedback",
   "@submitFeedback": {},
+
+  "suppliers": "Suppliers",
+  "@suppliers": {},
+
+  "takePicture": "Take Picture",
+  "@takePicture": {},
+
+  "testName": "Test Name",
+  "@testName": {},
+
+  "testPassedOrFailed": "Test passed or failed",
+  "@testPassedOrFailed": {},
+
+  "testsRequired": "Required Tests",
+  "@testsRequired": {},
 
   "testResults": "Test Results",
   "@testResults": {
     "description": ""
   },
+
+  "testResultAdd": "Add Test Result",
+  "@testResultAdd": {},
+
+  "testResultNone": "No Test Results",
+  "@testResultNone": {},
+
+  "testResultNoneDetail": "No test results available",
+  "@testResultNoneDetail": {},
 
   "timeout": "Timeout",
   "@timeout": {
@@ -525,6 +687,9 @@
   "tokenMissing": "Missing Token",
   "@tokenMissing": {},
 
+  "tokenMissingFromResponse": "Access token missing from response",
+  "@tokenMissingFromResponse": {},
+
   "transfer": "Transfer",
   "@transfer": {
     "description": "transfer"
@@ -534,6 +699,12 @@
   "@transferStock": {
     "description": "transfer stock"
   },
+
+  "translate": "Translate",
+  "@translate": {},
+
+  "translateHelp": "Help translate the InvenTree app",
+  "@translateHelp": {},
 
   "unknownResponse": "Unknown Response",
   "@unknownResponse": {},
@@ -548,6 +719,12 @@
   "@value": {
     "description": "value"
   },
+
+  "valueCannotBeEmpty": "Value cannot be empty",
+  "@valueCannotBeEmpty": {},
+
+  "valueRequired": "Value is required",
+  "@valueRequired": {},
 
   "version": "Version",
   "@version": {},
