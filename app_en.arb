@@ -607,7 +607,7 @@
   "@stockItemCreate": {},
 
   "stockItemHistory": "Stock History",
-  "@stockItemHistory",
+  "@stockItemHistory": {},
 
   "stockItemNotes": "Stock Item Notes",
   "@stockItemNotes": {},
