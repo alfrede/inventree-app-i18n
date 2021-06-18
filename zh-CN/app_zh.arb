@@ -26,10 +26,10 @@
     },
     "address": "地址",
     "@address": {},
-    "appDetails": "应用详情",
-    "@appDetails": {},
     "appAbout": "关于 InventTree",
     "@appAbout": {},
+    "appDetails": "应用详情",
+    "@appDetails": {},
     "attention": "注意",
     "@attention": {},
     "barcodeAssign": "分配条码",
@@ -168,14 +168,6 @@
     "@password": {},
     "profile": "档案",
     "@profile": {},
-    "profileAdd": "添加档案",
-    "@profileAdd": {},
-    "profileEdit": "编辑档案",
-    "@profileEdit": {},
-    "profileDelete": "删除档案",
-    "@profileDelete": {},
-    "profileSelect": "选择档案",
-    "@profileSelect": {},
     "quantity": "数量",
     "@quantity": {
         "description": "Quantity"
@@ -198,10 +190,6 @@
     },
     "reportBug": "反馈问题",
     "@reportBug": {},
-    "result": "结果",
-    "@result": {
-        "description": ""
-    },
     "request": "请求",
     "@request": {},
     "requestingData": "正在请求数据",
@@ -214,6 +202,10 @@
     "@responseInvalid": {},
     "responseUnknown": "未知响应",
     "@responseUnknown": {},
+    "result": "结果",
+    "@result": {
+        "description": ""
+    },
     "save": "保存",
     "@save": {
         "description": "Save"
