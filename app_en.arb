@@ -242,6 +242,12 @@
   "info": "Info",
   "@info": {},
 
+  "invalidHost": "Invalid hostname",
+  "@invalidHost": {},
+
+  "invalidHostDetails": "Provided hostname is not valid",
+  "@invalidHostDetails": {},
+
   "invalidPart": "Invalid Part",
   "@invalidPart": {},
 
