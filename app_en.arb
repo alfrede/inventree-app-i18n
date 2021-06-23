@@ -224,6 +224,12 @@
     "description": "history"
   },
 
+  "imageUploadFailure": "Image upload failed",
+  "@imageUploadFailure": {},
+
+  "imageUploadSuccess": "Image uploaded",
+  "@imageUploadSuccess": {},
+
   "includeSubcategories": "Include Subcategories",
   "@includeSubcategories": {},
 
