@@ -518,6 +518,9 @@
     "description": "search"
   },
 
+  "searchLocation": "Search for location",
+  "@searchLocation": {},
+
   "searchParts": "Search Parts",
   "@searchParts": {},
 
