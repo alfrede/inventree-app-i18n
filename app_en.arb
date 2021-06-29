@@ -22,6 +22,9 @@
     "description": ""
   },
 
+  "actionsNone": "No actions available",
+  "@actionsNone": {},
+
   "add": "Add",
   "@add": {
     "description": "add"
@@ -620,6 +623,9 @@
 
   "stockItemHistory": "Stock History",
   "@stockItemHistory": {},
+
+  "stockItemsNotAvailable": "No stock items available",
+  "@stockItemsNotAvailable": {},
 
   "stockItemNotes": "Stock Item Notes",
   "@stockItemNotes": {},
