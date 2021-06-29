@@ -328,6 +328,9 @@
     "description": "Part (single)"
   },
 
+  "partEdited": "Part edited",
+  "@partEdited": {},
+
   "parts": "Parts",
   "@parts": {
     "description": "Part (multiple)"
@@ -623,6 +626,12 @@
 
   "stockItemHistory": "Stock History",
   "@stockItemHistory": {},
+
+  "stockItemTransferred": "Stock item transferred",
+  "@stockItemTransferred": {},
+
+  "stockItemUpdated": "Stock item updated",
+  "@stockItemUpdated": {},
 
   "stockItemsNotAvailable": "No stock items available",
   "@stockItemsNotAvailable": {},
