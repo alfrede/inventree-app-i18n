@@ -368,6 +368,9 @@
   "password": "Password",
   "@password": {},
 
+  "passwordEmpty": "Password cannot be empty",
+  "@passwordEmpty": {},
+
   "permissionAccountDenied": "Your account does not have the required permissions to perform this action",
   "@permissionAccountDenied": {},
 
@@ -572,6 +575,9 @@
   "serverCouldNotConnect": "Could not connect to server",
   "@serverCouldNotConnect": {},
 
+  "serverEmpty": "Server cannot be empty",
+  "@serverEmpty": {},
+
   "serverError":  "Server Error",
   "@serverError": {},
 
@@ -586,6 +592,9 @@
 
   "serverSettings": "Server Settings",
   "@serverSettings": {},
+
+  "serverStart": "Server must start with http[s]",
+  "@serverStart": {},
 
   "settings": "Settings",
   "@settings": {},
@@ -753,6 +762,9 @@
 
   "username": "Username",
   "@username": {},
+
+  "usernameEmpty": "Username cannot be empty",
+  "@usernameEmpty": {},
 
   "value": "Value",
   "@value": {
