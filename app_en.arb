@@ -487,6 +487,24 @@
   "response429": "Too Many Requests",
   "@response429": {},
 
+  "response500": "Internal Server Error",
+  "@response500": {},
+
+  "response501": "Not Implemented",
+  "@response501": {},
+
+  "response502": "Bad Gateway",
+  "@response502": {},
+
+  "response503": "Service Unavailable",
+  "@response503": {},
+
+  "response504": "Gateway Timeout",
+  "@response504": {},
+
+  "response505": "HTTP Version Not Supported",
+  "@response505": {},
+
   "responseData": "Response data",
   "@responseData": {},
 
