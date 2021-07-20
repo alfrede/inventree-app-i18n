@@ -278,6 +278,12 @@
   "keywords": "Keywords",
   "@keywords": {},
 
+  "lastStocktake": "Last Stocktake",
+  "@lastStocktake": {},
+
+  "lastUpdated": "Last Updated",
+  "@lastUpdated": {},
+
   "locationNotSet": "No location specified",
   "@locationNotSet": {},
 
