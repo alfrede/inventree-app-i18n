@@ -602,7 +602,7 @@
   "serverDetails": "Server Details",
   "@serverDetails": {},
 
-  "serverMissingData": "Server response msising required fields",
+  "serverMissingData": "Server response missing required fields",
   "@serverMissingData": {},
 
   "serverOld": "Old Server Version",
