@@ -233,6 +233,12 @@
   "imageUploadSuccess": "Image uploaded",
   "@imageUploadSuccess": {},
 
+  "inactive": "Inactive",
+  "@inactive": {},
+
+  "inactiveDetail": "This part is marked as inactive",
+  "@inactiveDetail": {},
+
   "includeSubcategories": "Include Subcategories",
   "@includeSubcategories": {},
 
