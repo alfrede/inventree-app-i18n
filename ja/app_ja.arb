@@ -400,8 +400,6 @@
     "@serverError": {},
     "serverDetails": "サーバの詳細",
     "@serverDetails": {},
-    "serverMissingData": "サーバーは必須フィールドの応答を失いました",
-    "@serverMissingData": {},
     "serverOld": "旧サーバーのバージョン",
     "@serverOld": {},
     "serverSettings": "サーバー設定:",
