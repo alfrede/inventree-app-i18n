@@ -419,6 +419,9 @@
   "profileTapToCreate": "Tap to create or select a profile",
   "@profileTapToCreate": {},
 
+  "purchasePrice": "Purchase Price",
+  "@purchasePrice": {},
+
   "quantity": "Quantity",
   "@quantity": {
     "description": "Quantity"
