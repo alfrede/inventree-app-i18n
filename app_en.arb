@@ -193,6 +193,9 @@
     "description": "edit part"
   },
 
+  "editItem": "Edit Stock Item",
+  "@editItem": {},
+
   "enterPassword": "Enter password",
   "@enterPassword": {},
 
