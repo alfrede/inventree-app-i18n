@@ -188,6 +188,9 @@
   "editLocation": "Edit Location",
   "@editLocation": {},
 
+  "editNotes": "Edit Notes",
+  "@editNotes": {},
+
   "editPart": "Edit Part",
   "@editPart": {
     "description": "edit part"
