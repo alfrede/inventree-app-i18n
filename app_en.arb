@@ -138,6 +138,9 @@
   "companyEdit": "Edit Company",
   "@companyEdit": {},
 
+  "companyNoResults": "No companies matching query",
+  "@companyNoResults": {},
+
   "companies": "Companies",
   "@companies": {},
 
@@ -159,6 +162,9 @@
 
   "credits": "Credits",
   "@credits": {},
+
+  "customers": "Customers",
+  "@customers": {},
 
   "damaged": "Damaged",
   "@damaged": {},
@@ -308,6 +314,9 @@
   "lost": "Lost",
   "@lost": {},
 
+  "manufacturers": "Manufacturers",
+  "@manufacturers": {},
+
   "missingData": "Missing Data",
   "@missingData": {},
 
@@ -365,6 +374,9 @@
 
   "partsNone": "No Parts",
   "@partsNone": {},
+
+  "partNoResults": "No parts matching query",
+  "@partNoResults": {},
 
   "partsStarred": "Starred Parts",
   "@partsStarred": {},
