@@ -369,6 +369,9 @@
   "partsStarredNone": "No starred parts available",
   "@partsStarredNone": {},
 
+  "partSuppliers": "Part Suppliers",
+  "@partSuppliers": {},
+
   "partCategory": "Part Category",
   "@partCategory": {},
 
