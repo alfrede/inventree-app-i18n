@@ -135,6 +135,9 @@
   "company": "Company",
   "@company": {},
 
+  "companyEdit": "Edit Company",
+  "@companyEdit": {},
+
   "companies": "Companies",
   "@companies": {},
 
