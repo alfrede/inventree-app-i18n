@@ -332,6 +332,12 @@
   "noSubcategoriesAvailable": "No subcategories available",
   "@noSubcategoriesAvailable": {},
 
+  "onOrder": "On Order",
+  "@onOrder": {},
+
+  "onOrderDetails": "Items currently on order",
+  "@onOrderDetails": {},
+
   "packageName": "Package Name",
   "@packageName": {},
 
@@ -664,6 +670,9 @@
     "description": "stock"
   },
 
+  "stockDetails": "Current stock quantity",
+  "@stockDetails": {},
+
   "stockItem": "Stock Item",
   "@stockItem": {
     "description": "stock item title"
@@ -798,6 +807,12 @@
 
   "upload": "Upload",
   "@upload": {},
+
+  "usedIn": "Used In",
+  "@usedIn": {},
+
+  "usedInDetails": "Assemblies which require this part",
+  "@usedInDetails": {},
 
   "username": "Username",
   "@username": {},
