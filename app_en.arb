@@ -219,8 +219,14 @@
     "description": "Error"
   },
 
+  "errorCreate": "Error creating database entry",
+  "@errorCreate": {},
+
   "errorDetails": "Error Details",
   "@errorDetails": {},
+
+  "errorFetch":  "Error fetching data from server",
+  "@errorFetch": {},
 
   "feedback": "Feedback",
   "@feedback": {},
