@@ -844,6 +844,9 @@
   "upload": "Upload",
   "@upload": {},
 
+  "uploadFailed": "Upload failed",
+  "@uploadFailed": {},
+
   "usedIn": "Used In",
   "@usedIn": {},
 
