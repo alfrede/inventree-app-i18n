@@ -132,6 +132,12 @@
   "category": "Category",
   "@category": {},
 
+  "categoryCreate": "New Category",
+  "@categoryCreate": {},
+
+  "categoryCreateDetail": "Create new part category",
+  "@categoryCreateDetail": {},
+
   "company": "Company",
   "@company": {},
 
@@ -369,6 +375,12 @@
   "@part": {
     "description": "Part (single)"
   },
+
+  "partCreate": "New Part",
+  "@partCreate": {},
+
+  "partCreateDetail": "Create new part in this category",
+  "@partCreateDetail": {},
 
   "partEdited": "Part edited",
   "@partEdited": {},
