@@ -112,6 +112,9 @@
   "barcodeUnknown": "Barcode is not recognized",
   "@barcodeUnknown": {},
 
+  "batchCode": "Batch Code",
+  "@batchCode": {},
+
   "billOfMaterials": "Bill of Materials",
   "@billOfMaterials": {},
 
@@ -361,6 +364,9 @@
 
   "onOrderDetails": "Items currently on order",
   "@onOrderDetails": {},
+
+  "packaging": "Packaging",
+  "@packaging": {},
 
   "packageName": "Package Name",
   "@packageName": {},
