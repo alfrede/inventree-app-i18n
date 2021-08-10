@@ -326,6 +326,12 @@
   "lastUpdated": "Last Updated",
   "@lastUpdated": {},
 
+  "locationCreate": "New Location",
+  "@locationCreate": {},
+
+  "locationCreateDetail": "Create new stock location",
+  "@locationCreateDetail": {},
+
   "locationNotSet": "No location specified",
   "@locationNotSet": {},
 
