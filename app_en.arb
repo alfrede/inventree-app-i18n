@@ -181,6 +181,12 @@
   "delete": "Delete",
   "@delete": {},
 
+  "deletePart": "Delete Part",
+  "@deletePart": {},
+
+  "deletePartDetail": "Remove this part from the database",
+  "@deletePartDetail": {},
+
   "description": "Description",
   "@description": {},
 
