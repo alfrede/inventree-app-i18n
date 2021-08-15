@@ -210,6 +210,12 @@
   "documentation": "Documentation",
   "@documentation": {},
 
+  "downloading": "Downloading File",
+  "@downloading": {},
+
+  "downloadError": "Download Error",
+  "@downloadError": {},
+
   "edit": "Edit",
   "@edit": {
     "description": "edit"
