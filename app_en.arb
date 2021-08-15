@@ -64,6 +64,12 @@
     "description": "Attach an image"
   },
 
+  "attachmentNone": "No attachments found",
+  "@attachmentNone": {},
+
+  "attachmentNonePartDetail": "No attachments found for this part",
+  "@attachmentNonePartDetail": {},
+
   "attention": "Attention",
   "@attention": {},
 
