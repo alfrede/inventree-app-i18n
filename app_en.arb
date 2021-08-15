@@ -735,8 +735,11 @@
   "stockItems": "Stock Items",
   "@stockItems": {},
 
-  "stockItemCreate": "Create Stock Item",
+  "stockItemCreate": "New Stock Item",
   "@stockItemCreate": {},
+
+  "stockItemCreateDetail": "Create new stock item in this location",
+  "@stockItemCreateDetail": {},
 
   "stockItemHistory": "Stock History",
   "@stockItemHistory": {},
