@@ -56,6 +56,9 @@
   "appSettingsDetails": "Configure InvenTree app settings",
   "@appSettingsDetails": {},
 
+  "attachments": "Attachments",
+  "@attachments": {},
+
   "attachImage": "Attach Image",
   "@attachImage": {
     "description": "Attach an image"
