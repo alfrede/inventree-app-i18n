@@ -371,6 +371,9 @@
   "noSubcategoriesAvailable": "No subcategories available",
   "@noSubcategoriesAvailable": {},
 
+  "numberInvalid": "Invalid number",
+  "@numberInvalid": {},
+
   "onOrder": "On Order",
   "@onOrder": {},
 
