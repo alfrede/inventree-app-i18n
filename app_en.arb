@@ -877,8 +877,11 @@
   "upload": "Upload",
   "@upload": {},
 
-  "uploadFailed": "Upload failed",
+  "uploadFailed": "File upload failed",
   "@uploadFailed": {},
+
+  "uploadSuccess": "File uploaded",
+  "@uploadSuccess": {},
 
   "usedIn": "Used In",
   "@usedIn": {},
