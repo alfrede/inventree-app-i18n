@@ -407,6 +407,9 @@
   "parentCategory": "Parent Category",
   "@parentCategory": {},
 
+  "parentLocation": "Parent Location",
+  "@parentLocation": {},
+
   "part": "Part",
   "@part": {
     "description": "Part (single)"
