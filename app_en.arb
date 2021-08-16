@@ -70,6 +70,9 @@
   "attachmentNonePartDetail": "No attachments found for this part",
   "@attachmentNonePartDetail": {},
 
+  "attachmentSelect": "Select attachment",
+  "@attachmentSelect": {},
+
   "attention": "Attention",
   "@attention": {},
 
