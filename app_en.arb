@@ -491,6 +491,9 @@
   "profileDelete": "Delete Server Profile",
   "@profileDelete": {},
 
+  "profileName": "Profile Name",
+  "@profileName": {},
+
   "profileNone": "No profiles available",
   "@profileNone": {},
 
