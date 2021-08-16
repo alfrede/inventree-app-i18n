@@ -656,6 +656,9 @@
   "select": "Select",
   "@select": {},
 
+  "selectFile": "Select File",
+  "@selectFile": {},
+
   "selectImage": "Select Image",
   "@selectImage": {},
 
