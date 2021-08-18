@@ -430,8 +430,6 @@
     },
     "stockItems": "在庫アイテム",
     "@stockItems": {},
-    "stockItemCreate": "在庫アイテムを作成",
-    "@stockItemCreate": {},
     "stockItemHistory": "在庫履歴",
     "@stockItemHistory": {},
     "stockItemTransferred": "在庫アイテムが転送されました",

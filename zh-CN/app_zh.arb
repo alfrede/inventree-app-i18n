@@ -262,8 +262,6 @@
     },
     "stockItems": "库存项",
     "@stockItems": {},
-    "stockItemCreate": "创建库存项",
-    "@stockItemCreate": {},
     "stockItemNotes": "库存项注释",
     "@stockItemNotes": {},
     "stockItemUpdateSuccess": "库存项已更新",

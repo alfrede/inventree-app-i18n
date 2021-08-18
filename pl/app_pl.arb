@@ -458,8 +458,6 @@
     },
     "stockItems": "Elementy magazynowe",
     "@stockItems": {},
-    "stockItemCreate": "Utwórz element magazynowy",
-    "@stockItemCreate": {},
     "stockItemHistory": "Historia zapasów",
     "@stockItemHistory": {},
     "stockItemTransferred": "Element magazynowy przeniesiony",
