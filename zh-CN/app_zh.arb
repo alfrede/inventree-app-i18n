@@ -56,6 +56,8 @@
     "@barcodeUnassign": {},
     "barcodeUnknown": "无法识别条码",
     "@barcodeUnknown": {},
+    "build": "生产",
+    "@build": {},
     "cancel": "取消",
     "@cancel": {
         "description": "Cancel"
@@ -172,6 +174,12 @@
     "@quantity": {
         "description": "Quantity"
     },
+    "quantityEmpty": "容量为空",
+    "@quantityEmpty": {},
+    "quantityInvalid": "数量无效",
+    "@quantityInvalid": {},
+    "quantityPositive": "数量必须大于0",
+    "@quantityPositive": {},
     "refresh": "刷新",
     "@refresh": {},
     "refreshing": "正在刷新",
@@ -256,6 +264,8 @@
     "@stock": {
         "description": "stock"
     },
+    "stockDetails": "当前库存数量",
+    "@stockDetails": {},
     "stockItem": "库存项",
     "@stockItem": {
         "description": "stock item title"
