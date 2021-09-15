@@ -1,3 +1,15 @@
 {
-    "@@locale": "en"
+    "@@locale": "en",
+    "accountDetails": "Dettagli account",
+    "@accountDetails": {},
+    "actions": "Azioni",
+    "@actions": {
+        "description": ""
+    },
+    "actionsNone": "Nessuna azione disponibile",
+    "@actionsNone": {},
+    "add": "Aggiungi",
+    "@add": {
+        "description": "add"
+    }
 }
