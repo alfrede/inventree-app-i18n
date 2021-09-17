@@ -889,6 +889,9 @@
   "translateHelp": "Help translate the InvenTree app",
   "@translateHelp": {},
 
+  "units": "Units",
+  "@units": {},
+
   "unknownResponse": "Unknown Response",
   "@unknownResponse": {},
 
