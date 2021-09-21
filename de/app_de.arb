@@ -30,6 +30,10 @@
     "@appAbout": {},
     "appDetails": "App-Informationen",
     "@appDetails": {},
+    "appSettings": "App-Einstellungen",
+    "@appSettings": {},
+    "attachments": "Anhänge",
+    "@attachments": {},
     "attachImage": "Bild hinzufügen",
     "@attachImage": {
         "description": "Attach an image"
@@ -62,6 +66,8 @@
     },
     "category": "Kategorie",
     "@category": {},
+    "categoryCreate": "Neue Kategorie",
+    "@categoryCreate": {},
     "connectionRefused": "Verbindung verweigert",
     "@connectionRefused": {},
     "count": "Zählen",
@@ -72,6 +78,8 @@
     "@countStock": {
         "description": "Count Stock"
     },
+    "customers": "Kunden",
+    "@customers": {},
     "damaged": "Beschädigt",
     "@damaged": {},
     "delete": "Löschen",
