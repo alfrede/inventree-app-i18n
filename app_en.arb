@@ -509,6 +509,9 @@
   "profileTapToCreate": "Tap to create or select a profile",
   "@profileTapToCreate": {},
 
+  "purchaseOrders": "Purchase Orders",
+  "@purchaseOrders": {},
+
   "purchasePrice": "Purchase Price",
   "@purchasePrice": {},
 
@@ -629,6 +632,9 @@
 
   "returned": "Returned",
   "@returned": {},
+
+  "salesOrders": "Sales Orders",
+  "@salesOrders": {},
 
   "save": "Save",
   "@save": {
