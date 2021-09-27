@@ -332,6 +332,9 @@
   "invalidUsernamePassword": "Invalid username / password combination",
   "@invalidUsernamePassword": {},
 
+  "issueDate": "Issue Date",
+  "@issueDate": {},
+
   "itemInLocation": "Item already in location",
   "@itemInLocation": {},
 
@@ -343,6 +346,9 @@
 
   "lastUpdated": "Last Updated",
   "@lastUpdated": {},
+
+  "lineItems": "Line Items",
+  "@lineItems": {},
 
   "locationCreate": "New Location",
   "@locationCreate": {},
@@ -508,6 +514,12 @@
 
   "profileTapToCreate": "Tap to create or select a profile",
   "@profileTapToCreate": {},
+
+  "purchaseOrder": "Purchase Order",
+  "@purchaseOrder": {},
+
+  "purchaseOrderEdit": "Edit Purchase Order",
+  "@purchaseOrderEdit": {},
 
   "purchaseOrders": "Purchase Orders",
   "@purchaseOrders": {},
@@ -830,11 +842,20 @@
   "submitFeedback": "Submit Feedback",
   "@submitFeedback": {},
 
+  "supplier": "Supplier",
+  "@supplier": {},
+
   "suppliers": "Suppliers",
   "@suppliers": {},
 
+  "supplierReference": "Supplier Reference",
+  "@supplierReference": {},
+
   "takePicture": "Take Picture",
   "@takePicture": {},
+
+  "targetDate": "Target Date",
+  "@targetDate": {},
 
   "testName": "Test Name",
   "@testName": {},
