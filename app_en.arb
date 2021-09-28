@@ -553,6 +553,9 @@
   "queryShortDetail": "Enter a query of at least three characters",
   "@queryShortDetail": {},
 
+  "received": "Received",
+  "@received": {},
+
   "refresh": "Refresh",
   "@refresh": {},
 
