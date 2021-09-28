@@ -305,6 +305,9 @@
   "includeSublocationsDetail": "Display sublocation items in list view",
   "@includeSublocationsDetail": {},
 
+  "incompleteDetails": "Incomplete profile details",
+  "@incompleteDetails": {},
+
   "internalPartNumber": "Internal Part Number",
   "@internalPartNumber": {},
 
