@@ -972,6 +972,9 @@
   "version": "Version",
   "@version": {},
 
+  "viewSupplierPart": "View Supplier Part",
+  "@viewSupplierPart": {},
+
   "website": "Website",
   "@website": {}
 }
