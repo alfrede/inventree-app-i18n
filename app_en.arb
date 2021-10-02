@@ -568,6 +568,9 @@
   "receiveItem": "Receive Item",
   "@receiveItem": {},
 
+  "receivedItem": "Received Stock Item",
+  "@receivedItem": {},
+
   "refresh": "Refresh",
   "@refresh": {},
 
