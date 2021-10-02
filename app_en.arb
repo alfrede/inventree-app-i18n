@@ -276,6 +276,9 @@
   "formatExceptionJson": "JSON data format exception",
   "@formatExceptionJson": {},
 
+  "formError": "Form Error",
+  "@formError": {},
+
   "history": "History",
   "@history": {
     "description": "history"
