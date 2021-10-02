@@ -350,6 +350,9 @@
   "lastUpdated": "Last Updated",
   "@lastUpdated": {},
 
+  "lineItem": "Line Item",
+  "@lineItem": {},
+
   "lineItems": "Line Items",
   "@lineItems": {},
 
@@ -558,6 +561,9 @@
 
   "received": "Received",
   "@received": {},
+
+  "receiveItem": "Receive Item",
+  "@receiveItem": {},
 
   "refresh": "Refresh",
   "@refresh": {},
