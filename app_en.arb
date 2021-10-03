@@ -553,17 +553,8 @@
   "quantityPositive": "Quantity must be positive",
   "@quantityPositive": {},
 
-  "queryEnter": "Enter search query",
-  "@queryEnter": {},
-
   "queryNoResults": "No results for query",
   "@queryNoResults": {},
-
-  "queryShort": "Query too short",
-  "@queryShort": {},
-
-  "queryShortDetail": "Enter a query of at least three characters",
-  "@queryShortDetail": {},
 
   "received": "Received",
   "@received": {},
@@ -862,6 +853,9 @@
 
   "submitFeedback": "Submit Feedback",
   "@submitFeedback": {},
+
+  "suppliedParts": "Supplied Parts",
+  "@suppliedParts": {},
 
   "supplier": "Supplier",
   "@supplier": {},
