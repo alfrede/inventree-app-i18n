@@ -82,6 +82,9 @@
   "barcodeAssigned": "Barcode assigned",
   "@barcodeAssigned": {},
 
+  "barcodeError": "Barcode scan error",
+  "@barcodeError": {},
+
   "barcodeInUse": "Barcode already assigned",
   "@barcodeInUse": {},
 
