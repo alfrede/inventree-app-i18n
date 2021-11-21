@@ -226,6 +226,8 @@
     "@parent": {},
     "parentCategory": "Categoria Superiore",
     "@parentCategory": {},
+    "partSuppliers": "Fornitori articoli",
+    "@partSuppliers": {},
     "password": "Password",
     "@password": {},
     "passwordEmpty": "La password non può essere vuota",
@@ -488,6 +490,8 @@
     "@valueRequired": {},
     "version": "Versione",
     "@version": {},
+    "viewSupplierPart": "Visualizza Fornitore",
+    "@viewSupplierPart": {},
     "website": "Sito Web",
     "@website": {}
 }
