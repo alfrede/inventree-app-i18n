@@ -1,3 +1,15 @@
 {
-    "@@locale": "en"
+    "@@locale": "en",
+    "barcodeScanInItems": "Escanear artículos de stock a la ubicación",
+    "@barcodeScanInItems": {},
+    "includeSublocationsDetail": "Mostrar elementos de sub-ubicación en vista de lista",
+    "@includeSublocationsDetail": {},
+    "lineItems": "Elementos de línea",
+    "@lineItems": {},
+    "onOrderDetails": "Artículos actualmente en pedido",
+    "@onOrderDetails": {},
+    "stockItems": "Elementos de Stock",
+    "@stockItems": {},
+    "stockItemsNotAvailable": "No hay artículos de stock disponibles",
+    "@stockItemsNotAvailable": {}
 }
