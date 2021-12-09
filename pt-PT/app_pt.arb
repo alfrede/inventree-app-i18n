@@ -1,3 +1,37 @@
 {
-    "@@locale": "en"
+    "@@locale": "en",
+    "appTitle": "InvenTree",
+    "@appTitle": {
+        "description": "InvenTree application title string"
+    },
+    "ok": "OK",
+    "@ok": {
+        "description": "OK"
+    },
+    "about": "Sobre",
+    "@about": {},
+    "accountDetails": "Detalhes da Conta",
+    "@accountDetails": {},
+    "actions": "Ações",
+    "@actions": {
+        "description": ""
+    },
+    "actionsNone": "Nenhuma ação disponível",
+    "@actionsNone": {},
+    "add": "Adicionar",
+    "@add": {
+        "description": "add"
+    },
+    "addStock": "Adicionar ao estoque",
+    "@addStock": {
+        "description": "add stock"
+    },
+    "address": "Endereço",
+    "@address": {},
+    "appAbout": "Sobre o InvenTree",
+    "@appAbout": {},
+    "appCredits": "Créditos adicionais do aplicativo",
+    "@appCredits": {},
+    "appDetails": "Detalhes do App",
+    "@appDetails": {}
 }
