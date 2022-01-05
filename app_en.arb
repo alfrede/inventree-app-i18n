@@ -590,6 +590,9 @@
   "reportBug": "Report Bug",
   "@reportBug": {},
 
+  "reportBugDescription": "Submit bug report (requires GitHub account)",
+  "@reportBugDescription": {},
+
   "results": "Results",
   "@results": {},
 
