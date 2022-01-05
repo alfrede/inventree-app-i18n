@@ -287,6 +287,39 @@
     "description": "history"
   },
 
+  "homeScreen": "Home Screen",
+  "@homeScreen": {},
+
+  "homeShowPo":  "Show Purchase Orders",
+  "@homeShowPo": {},
+
+  "homeShowSubscribed": "Subscribed Parts",
+  "@homeShowSubscribed": {},
+
+  "homeShowSubscribedDescription": "Show subscribed parts on home screen",
+  "@homeShowSubscsribedDescription": {},
+
+  "homeShowPoDescription": "Show purchase order button on home screen",
+  "@homeShowPoDescription": {},
+
+  "homeShowSuppliers": "Show Suppliers",
+  "@homeShowSuppliers": {},
+
+  "homeShowSuppliersDescription": "Show suppliers button on home screen",
+  "@homeShowSupplierDescription": {},
+
+  "homeShowManufacturers": "Show Manufacturers",
+  "@homeShowManufacturers": {},
+
+  "homeShowManufacturersDescription": "Show manufacturers button on home screen",
+  "@homeShowManufacturersDescription": {},
+
+  "homeShowCustomers": "Show Customers",
+  "@homeShowCustomers": {},
+
+  "homeShowCustomersDescription": "Show customers button on home screen",
+  "@homeShowCustomersDescription": {},
+
   "imageUploadFailure": "Image upload failed",
   "@imageUploadFailure": {},
 
@@ -456,7 +489,7 @@
   "partNoResults": "No parts matching query",
   "@partNoResults": {},
 
-  "partsStarred": "Starred Parts",
+  "partsStarred": "Subscribed Parts",
   "@partsStarred": {},
 
   "partsStarredNone": "No starred parts available",
