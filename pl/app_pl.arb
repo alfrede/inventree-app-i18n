@@ -200,6 +200,8 @@
     "@history": {
         "description": "history"
     },
+    "@homeShowSubscsribedDescription": {},
+    "@homeShowSupplierDescription": {},
     "imageUploadFailure": "Przesyłanie zdjęcia nie powiodło się",
     "@imageUploadFailure": {},
     "imageUploadSuccess": "Obraz przesłany",
@@ -314,8 +316,6 @@
     "@partsNone": {},
     "partNoResults": "Brak komponentów pasujących do zapytania",
     "@partNoResults": {},
-    "partsStarred": "Części oznaczone gwiazdką",
-    "@partsStarred": {},
     "partsStarredNone": "Brak części oznaczonych gwiazdką",
     "@partsStarredNone": {},
     "partSuppliers": "Dostawcy Części",
