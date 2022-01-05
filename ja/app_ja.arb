@@ -160,6 +160,8 @@
     "@history": {
         "description": "history"
     },
+    "@homeShowSubscsribedDescription": {},
+    "@homeShowSupplierDescription": {},
     "imageUploadFailure": "画像のアップロードに失敗しました",
     "@imageUploadFailure": {},
     "imageUploadSuccess": "アップロードされた画像",
@@ -236,8 +238,6 @@
     },
     "partsNone": "パーツがありません",
     "@partsNone": {},
-    "partsStarred": "お気に入りのパーツ",
-    "@partsStarred": {},
     "partsStarredNone": "お気に入りのパーツはありません",
     "@partsStarredNone": {},
     "partCategory": "パーツカテゴリー",
