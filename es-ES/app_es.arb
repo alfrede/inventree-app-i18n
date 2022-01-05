@@ -2,6 +2,8 @@
     "@@locale": "en",
     "barcodeScanInItems": "Escanear artículos de stock a la ubicación",
     "@barcodeScanInItems": {},
+    "@homeShowSubscsribedDescription": {},
+    "@homeShowSupplierDescription": {},
     "includeSublocationsDetail": "Mostrar elementos de sub-ubicación en vista de lista",
     "@includeSublocationsDetail": {},
     "lineItems": "Elementos de línea",
