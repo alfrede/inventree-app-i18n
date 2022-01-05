@@ -90,6 +90,8 @@
     "@history": {
         "description": "history"
     },
+    "@homeShowSubscsribedDescription": {},
+    "@homeShowSupplierDescription": {},
     "imageUploadFailure": "Не удалось загрузить изображение",
     "@imageUploadFailure": {},
     "imageUploadSuccess": "Изображение загружено",
