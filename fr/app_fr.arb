@@ -180,6 +180,8 @@
     "@history": {
         "description": "history"
     },
+    "@homeShowSubscsribedDescription": {},
+    "@homeShowSupplierDescription": {},
     "imageUploadFailure": "Échec de l'envoi de l'image",
     "@imageUploadFailure": {},
     "imageUploadSuccess": "Image transférée",
@@ -248,8 +250,6 @@
     },
     "partsNone": "Aucune pièces",
     "@partsNone": {},
-    "partsStarred": "Pièces favorites",
-    "@partsStarred": {},
     "partsStarredNone": "Aucune pièce favorite disponible",
     "@partsStarredNone": {},
     "partSuppliers": "Fournisseurs de pièces",
