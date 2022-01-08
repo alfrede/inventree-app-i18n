@@ -126,6 +126,8 @@
     "@history": {
         "description": "history"
     },
+    "@homeShowSubscsribedDescription": {},
+    "@homeShowSupplierDescription": {},
     "internalPartNumber": "内部部件号",
     "@internalPartNumber": {},
     "info": "信息",

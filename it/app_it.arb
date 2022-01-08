@@ -166,6 +166,8 @@
     "@history": {
         "description": "history"
     },
+    "@homeShowSubscsribedDescription": {},
+    "@homeShowSupplierDescription": {},
     "imageUploadFailure": "Il caricamento della foto è fallito",
     "@imageUploadFailure": {},
     "imageUploadSuccess": "Immagine caricata",

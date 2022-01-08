@@ -1,3 +1,79 @@
 {
-    "@@locale": "en"
+    "@@locale": "en",
+    "appTitle": "InvenTree",
+    "@appTitle": {
+        "description": "InvenTree application title string"
+    },
+    "ok": "OK",
+    "@ok": {
+        "description": "OK"
+    },
+    "about": "Sobre",
+    "@about": {},
+    "accountDetails": "Detalhes da Conta",
+    "@accountDetails": {},
+    "actions": "Ações",
+    "@actions": {
+        "description": ""
+    },
+    "actionsNone": "Nenhuma ação disponível",
+    "@actionsNone": {},
+    "add": "Adicionar",
+    "@add": {
+        "description": "add"
+    },
+    "addStock": "Adicionar ao estoque",
+    "@addStock": {
+        "description": "add stock"
+    },
+    "address": "Endereço",
+    "@address": {},
+    "appAbout": "Sobre o InvenTree",
+    "@appAbout": {},
+    "appCredits": "Créditos adicionais do aplicativo",
+    "@appCredits": {},
+    "appDetails": "Detalhes do App",
+    "@appDetails": {},
+    "appReleaseNotes": "Exibir notas de versão do aplicativo",
+    "@appReleaseNotes": {},
+    "appSettings": "Configurações do App",
+    "@appSettings": {},
+    "appSettingsDetails": "Configurar os parâmetros do InvenTree",
+    "@appSettingsDetails": {},
+    "attachments": "Anexos",
+    "@attachments": {},
+    "attachImage": "Anexar Imagem",
+    "@attachImage": {
+        "description": "Attach an image"
+    },
+    "attachmentNone": "Não foram encontrados quaisquer anexos",
+    "@attachmentNone": {},
+    "attachmentNonePartDetail": "Nenhum anexo encontrado para esta peça",
+    "@attachmentNonePartDetail": {},
+    "attachmentSelect": "Selecionar anexo",
+    "@attachmentSelect": {},
+    "attention": "Aviso",
+    "@attention": {},
+    "barcodeAssign": "Atribuir Código de Barras",
+    "@barcodeAssign": {},
+    "barcodeAssigned": "Código de barras atribuído",
+    "@barcodeAssigned": {},
+    "barcodeError": "Erro ao escanear código de barras",
+    "@barcodeError": {},
+    "barcodeInUse": "Código de barras já atribuído",
+    "@barcodeInUse": {},
+    "barcodeMissingHash": "Dados de hash de código de barras faltando na resposta",
+    "@barcodeMissingHash": {},
+    "barcodeNoMatch": "Não corresponde a nenhum código de barras",
+    "@barcodeNoMatch": {},
+    "barcodeNotAssigned": "Código de barras não atribuído",
+    "@barcodeNotAssigned": {},
+    "barcodeScanAssign": "Escaneie para atribuir código de barras",
+    "@barcodeScanAssign": {},
+    "barcodeScanGeneral": "Escaneie um código de barras do InvenTree",
+    "@barcodeScanGeneral": {},
+    "barcodeScanInItems": "Escaneie itens de estoque no local",
+    "@barcodeScanInItems": {},
+    "@homeShowSubscsribedDescription": {},
+    "@homeShowSupplierDescription": {}
 }
