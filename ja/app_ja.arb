@@ -96,8 +96,6 @@
     "@company": {},
     "companies": "会社",
     "@companies": {},
-    "configureServer": "設定されたサーバー設定",
-    "@configureServer": {},
     "connectionRefused": "接続を拒否しました",
     "@connectionRefused": {},
     "count": "カウント",
