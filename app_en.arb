@@ -168,7 +168,7 @@
   "companies": "Companies",
   "@companies": {},
 
-  "configureServer": "Configured server settings",
+  "configureServer": "Configure server settings",
   "@configureServer": {},
 
   "connectionRefused": "Connection Refused",
@@ -264,6 +264,15 @@
   "errorFetch":  "Error fetching data from server",
   "@errorFetch": {},
 
+  "errorReporting": "Error Reporting",
+  "@errorReporting": {},
+
+  "errorReportUpload": "Upload Error Reports",
+  "@errorReportUpload": {},
+
+  "errorReportUploadDetails": "Upload anonymous error reports and crash logs",
+  "@errorReportUploadDetails": {},
+
   "feedback": "Feedback",
   "@feedback": {},
 
@@ -289,6 +298,9 @@
 
   "homeScreen": "Home Screen",
   "@homeScreen": {},
+
+  "homeScreenSettings": "Configure home screen settings",
+  "@homeScreenSettings": {},
 
   "homeShowPo":  "Show Purchase Orders",
   "@homeShowPo": {},
