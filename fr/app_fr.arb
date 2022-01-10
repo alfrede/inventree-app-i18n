@@ -102,8 +102,6 @@
     "@companyNoResults": {},
     "companies": "Sociétés",
     "@companies": {},
-    "configureServer": "Paramètres du serveur configurés",
-    "@configureServer": {},
     "connectionRefused": "Connexion refusée",
     "@connectionRefused": {},
     "count": "Nombre",
