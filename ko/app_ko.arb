@@ -1,5 +1,21 @@
 {
     "@@locale": "en",
+    "add": "추가",
+    "@add": {
+        "description": "add"
+    },
+    "address": "주소",
+    "@address": {},
+    "appAbout": "InvenTree 소개",
+    "@appAbout": {},
+    "appReleaseNotes": "앱 릴리즈 노트 표시",
+    "@appReleaseNotes": {},
+    "appSettings": "앱 설정",
+    "@appSettings": {},
+    "error": "오류",
+    "@error": {
+        "description": "Error"
+    },
     "@homeShowSubscsribedDescription": {},
     "@homeShowSupplierDescription": {}
 }
