@@ -16,6 +16,8 @@
     "@appReleaseNotes": {},
     "appSettings": "앱 설정",
     "@appSettings": {},
+    "billOfMaterials": "부품 명세서",
+    "@billOfMaterials": {},
     "cancel": "취소",
     "@cancel": {
         "description": "Cancel"
@@ -46,6 +48,8 @@
     "@quantity": {
         "description": "Quantity"
     },
+    "reportBug": "버그 신고",
+    "@reportBug": {},
     "response505": "지원되지 않는 HTTP 버전",
     "@response505": {},
     "save": "저장",
