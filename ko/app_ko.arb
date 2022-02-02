@@ -30,6 +30,8 @@
     "@error": {
         "description": "Error"
     },
+    "errorDetails": "오류 세부 정보",
+    "@errorDetails": {},
     "@homeShowSubscsribedDescription": {},
     "@homeShowSupplierDescription": {},
     "keywords": "키워드",
