@@ -1,5 +1,69 @@
 {
     "@@locale": "en",
+    "appTitle": "InvenTree",
+    "@appTitle": {
+        "description": "InvenTree application title string"
+    },
+    "ok": "OK",
+    "@ok": {
+        "description": "OK"
+    },
+    "about": "Névjegy",
+    "@about": {},
+    "accountDetails": "Felhasználó adatok",
+    "@accountDetails": {},
+    "actions": "Műveletek",
+    "@actions": {
+        "description": ""
+    },
+    "actionsNone": "Nincsenek műveletek",
+    "@actionsNone": {},
+    "add": "Hozzáadás",
+    "@add": {
+        "description": "add"
+    },
+    "addStock": "Készlet növelése",
+    "@addStock": {
+        "description": "add stock"
+    },
+    "address": "Cím",
+    "@address": {},
+    "appAbout": "InvenTree névjegy",
+    "@appAbout": {},
+    "appCredits": "További közreműködők",
+    "@appCredits": {},
+    "appDetails": "App részletek",
+    "@appDetails": {},
+    "appReleaseNotes": "Kiadási közlemények",
+    "@appReleaseNotes": {},
+    "appSettings": "Alkalmazásbeállítások",
+    "@appSettings": {},
+    "appSettingsDetails": "Inventree alkalmazás beállításai",
+    "@appSettingsDetails": {},
+    "attachments": "Mellékletek",
+    "@attachments": {},
+    "attachImage": "Kép csatolása",
+    "@attachImage": {
+        "description": "Attach an image"
+    },
+    "attachmentNone": "Nem találhatók mellékletek",
+    "@attachmentNone": {},
+    "attachmentNonePartDetail": "Nincsenek mellékletek ehhez az alkarészhez",
+    "@attachmentNonePartDetail": {},
+    "attachmentSelect": "Melléklet kiválasztása",
+    "@attachmentSelect": {},
+    "attention": "Figyelem",
+    "@attention": {},
+    "barcodeAssign": "Vonalkód hozzárendelése",
+    "@barcodeAssign": {},
+    "barcodeAssigned": "Vonalkód hozzárendelve",
+    "@barcodeAssigned": {},
+    "barcodeError": "Vonalkód olvasási hiba",
+    "@barcodeError": {},
+    "barcodeInUse": "Vonalkód már hozzárendelve",
+    "@barcodeInUse": {},
+    "barcodeMissingHash": "Vonalkód hash hiányzik a válaszból",
+    "@barcodeMissingHash": {},
     "@homeShowSubscsribedDescription": {},
     "@homeShowSupplierDescription": {}
 }
