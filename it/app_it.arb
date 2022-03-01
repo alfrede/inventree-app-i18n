@@ -416,7 +416,7 @@
     "@status": {},
     "statusCode": "Codice di stato",
     "@statusCode": {},
-    "stock": "Scorte",
+    "stock": "Magazzino",
     "@stock": {
         "description": "stock"
     },
