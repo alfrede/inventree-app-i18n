@@ -226,6 +226,10 @@
     "@parent": {},
     "parentCategory": "Categoria Superiore",
     "@parentCategory": {},
+    "parts": "Articoli",
+    "@parts": {
+        "description": "Part (multiple)"
+    },
     "partSuppliers": "Fornitori articoli",
     "@partSuppliers": {},
     "password": "Password",
@@ -412,6 +416,10 @@
     "@status": {},
     "statusCode": "Codice di stato",
     "@statusCode": {},
+    "stock": "Scorte",
+    "@stock": {
+        "description": "stock"
+    },
     "subcategory": "Sottocategoria",
     "@subcategory": {},
     "subcategories": "Sottocategorie",
