@@ -156,6 +156,9 @@
   "categoryCreateDetail": "Create new part category",
   "@categoryCreateDetail": {},
 
+  "categoryUpdated": "Part category updated",
+  "@categoryUpdated": {},
+
   "company": "Company",
   "@company": {},
 
@@ -416,6 +419,9 @@
   "locationNotSet": "No location specified",
   "@locationNotSet": {},
 
+  "locationUpdated": "Stock location updated",
+  "@locationUpdated": {},
+
   "link": "Link",
   "@link": {},
 
@@ -487,7 +493,7 @@
   "partCreateDetail": "Create new part in this category",
   "@partCreateDetail": {},
 
-  "partEdited": "Part edited",
+  "partEdited": "Part updated",
   "@partEdited": {},
 
   "parts": "Parts",
