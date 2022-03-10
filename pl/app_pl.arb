@@ -304,8 +304,6 @@
     "@partCreate": {},
     "partCreateDetail": "Utwórz nowy komponent w tej kategorii",
     "@partCreateDetail": {},
-    "partEdited": "Część zmodyfikowana",
-    "@partEdited": {},
     "parts": "Części",
     "@parts": {
         "description": "Part (multiple)"
