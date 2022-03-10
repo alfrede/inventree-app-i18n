@@ -228,8 +228,6 @@
     "@part": {
         "description": "Part (single)"
     },
-    "partEdited": "パートが編集されました",
-    "@partEdited": {},
     "parts": "パーツ",
     "@parts": {
         "description": "Part (multiple)"
