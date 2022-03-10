@@ -334,8 +334,6 @@
     "@partCreate": {},
     "partCreateDetail": "Alkatrész létrehozása ebben a kategóriában",
     "@partCreateDetail": {},
-    "partEdited": "Alkatrész módosítva",
-    "@partEdited": {},
     "parts": "Alkatrészek",
     "@parts": {
         "description": "Part (multiple)"
