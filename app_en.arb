@@ -168,6 +168,9 @@
   "companyNoResults": "No companies matching query",
   "@companyNoResults": {},
 
+  "companyUpdated": "Company details updated",
+  "@companyUpdated": {},
+
   "companies": "Companies",
   "@companies": {},
 
@@ -586,6 +589,9 @@
 
   "purchaseOrders": "Purchase Orders",
   "@purchaseOrders": {},
+
+  "purchaseOrderUpdated": "Purchase order updated",
+  "@purchaseOrderUpdated": {},
 
   "purchasePrice": "Purchase Price",
   "@purchasePrice": {},
