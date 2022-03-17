@@ -196,8 +196,6 @@
     "@partCreate": {},
     "partCreateDetail": "Создать компонент в данной категории",
     "@partCreateDetail": {},
-    "partEdited": "Компонент изменен",
-    "@partEdited": {},
     "parts": "Номенклатура",
     "@parts": {
         "description": "Part (multiple)"
